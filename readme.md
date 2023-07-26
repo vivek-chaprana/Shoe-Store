@@ -14,7 +14,7 @@ Welcome to our Shoe Store Ecommerce website repository! This project is a simple
 
 ## Demo
 
-Link to live demo (if applicable): [Next Shoe Store](https://nextshoestore.vercel.app)
+Link to live demo : [Next Shoe Store](https://nextshoestore.vercel.app)
 
 ## Technologies Used
 
